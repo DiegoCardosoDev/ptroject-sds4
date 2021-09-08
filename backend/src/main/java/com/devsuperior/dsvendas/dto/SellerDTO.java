@@ -4,25 +4,25 @@ import java.io.Serializable;
 
 import com.devsuperior.dsvendas.entities.Seller;
 
-public class SellerDto implements Serializable {
+public class SellerDTO implements Serializable {
 	
 	private static final long serialVersionUID = 1L;
 	private Long id;
 	private String name;
 	
 	
-	public SellerDto() {
+	public SellerDTO() {
 		
 	}
 
 
-	public SellerDto(Long id, String name) {
+	public SellerDTO(Long id, String name) {
 		this.id = id;
 		this.name = name;
 	}
 	
 	
-	public SellerDto(Seller entity) {
+	public SellerDTO(Seller entity) {
 		id = entity.getId();
 		name = entity.getName();
 	}
