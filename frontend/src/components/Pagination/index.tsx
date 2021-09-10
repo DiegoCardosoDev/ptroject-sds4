@@ -1,4 +1,3 @@
-import { type } from "os";
 import { SalePage } from "types/sale";
 
 type Props = {
