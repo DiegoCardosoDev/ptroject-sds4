@@ -44,6 +44,11 @@
 link da Aplicação:
 <https://ds-vendas-diego-cardoso.netlify.app/dashboard>
 
+
+
+![dsvendas](https://user-images.githubusercontent.com/83510729/132928576-763ac1ec-8f7e-47c1-9893-0d425d2b1353.png)
+
+
 <img align="center" alt="Diego" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"> My Linkedin : <https://www.linkedin.com/in/diegocardosonogueira/>
 
 
